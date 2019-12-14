@@ -9,7 +9,7 @@ Implementação dos algoritmos de conversão de autômatos ﬁnitos com saída .
 
 **Sintaxe dos Arquivos de Entrada**;
 
-A primeira linha do arquivo de entrada tera´ apenas uma palavra, “mealy” ou “moore”, indicando o tipo de máquina que o arquivo descreve;
+A primeira linha do arquivo de entrada terá apenas uma palavra, “mealy” ou “moore”, indicando o tipo de máquina que o arquivo descreve;
 
 **Mealy**
 
