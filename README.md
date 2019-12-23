@@ -1,4 +1,4 @@
-# LFA - Moore / Mealy
+# LFA - Moore | Mealy
 
 **Autores:** Emanuel Rampinelli Gloria e Rafael dos Anjos;
 
